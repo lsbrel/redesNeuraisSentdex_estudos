@@ -1,0 +1,1 @@
+Curso de ia em python do canal sentdex ( upado ao git pro seguranca )
